@@ -4,13 +4,7 @@ import PropTypes from 'prop-types';
 import { ImLocation } from 'react-icons/im';
 import { CgProfile } from 'react-icons/cg';
 import { FaCalendarAlt, FaClock } from 'react-icons/fa';
-import {
-  EventCard,
-  EventTitle,
-  EventInfo,
-  EventInfoIcon,
-  Chip,
-} from './Event.styled';
+import { EventCard, EventTitle, EventInfo, Chip } from './Event.styled';
 
 export const Event = ({
   name,
