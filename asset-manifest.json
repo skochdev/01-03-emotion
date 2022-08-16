@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/01-03-emotion/static/css/main.e6c13ad2.css",
+    "main.js": "/01-03-emotion/static/js/main.27029fee.js",
+    "index.html": "/01-03-emotion/index.html",
+    "main.e6c13ad2.css.map": "/01-03-emotion/static/css/main.e6c13ad2.css.map",
+    "main.27029fee.js.map": "/01-03-emotion/static/js/main.27029fee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.27029fee.js"
+  ]
+}
